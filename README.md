@@ -8,15 +8,12 @@ Welcome to Quiz App, my first Android project developed using Kotlin! This appli
 
 - Multiple-choice questions
 - User-friendly interface
-- Score tracking
 - Immediate feedback on answers
-- Progress indicator
 
 ## 🛠 Technologies Used
 
 - Kotlin
 - Android Studio
-- Android Jetpack components
 
 ## 📲 Installation
 
