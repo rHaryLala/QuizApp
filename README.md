@@ -56,6 +56,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Hary Rabenamana
 
 Feel free to contribute to this project by opening issues or submitting pull requests!
